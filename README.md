@@ -53,8 +53,8 @@ The simulator supports **voice-triggered commands** for faster and more realisti
      - `"Hold Fire Track [ID]"`
      - `"SL, ADAFCO, Request Redwood Hot [NW/NE/SW/SE] Quadrant"`
      - `"Crew, Fireball Fireball Fireball"` (global TBM defense)
-     - '"reorient [NW/NE/SW/SE] Quadrant" PTL (or Patriot target line) bearing 230"'
-     - '"What Satate"
+     - `"reorient [NW/NE/SW/SE] Quadrant" PTL (or Patriot target line) bearing 230"`
+     - `"What Satate"`
 
 3. **Best Practices**
    - Speak clearly and at a steady pace.
